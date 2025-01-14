@@ -12,6 +12,7 @@
 > ##### Si consideras útil el curso, apóyalo haciendo "★ Star" en el repositorio. ¡Gracias!
 
 ## Lo que aprenderás
+### eso no es mio
 
 - Git desde su historia y fundamentos
 - Conceptos principales y flujo de trabajo
