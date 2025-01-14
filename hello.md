@@ -1,7 +1,7 @@
 > ### Si estás participando en el curso. Haz un fork del proyecto y añade tu usuario de GitHub en una nueva línea
 >
 > _Así practicarás un flujo completo de trabajo en Git y GitHub_
-
+jnj
 - mouredev
 - braismoure
 - Abiezerk
@@ -28,6 +28,7 @@
 - Germen6392
 - JIMTA22
 - frankester
+- hola
 - webferrol
 - rodrigorq
 - henry-tunga
